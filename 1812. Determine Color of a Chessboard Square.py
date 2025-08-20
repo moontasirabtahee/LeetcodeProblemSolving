@@ -18,3 +18,4 @@ s = Solution()
 print(s.squareIsWhite("a1"))  # Output: False
 print(s.squareIsWhite("h3"))  # Output: True
 print(s.squareIsWhite("c7"))  # Output: False
+print(s.squareIsWhite("d8"))  # Output: True
